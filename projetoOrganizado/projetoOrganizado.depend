@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1684637642 source:/home/helena/EstudoCodigos/projetoOrganizado/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcionario.h"
+	"gerente.h"
+	"projeto.h"
+
+1684664752 /home/helena/EstudoCodigos/projetoOrganizado/funcionario.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1684637543 /home/helena/EstudoCodigos/projetoOrganizado/gerente.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1684673175 /home/helena/EstudoCodigos/projetoOrganizado/projeto.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
